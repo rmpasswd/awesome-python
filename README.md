@@ -727,6 +727,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [magenta](https://github.com/magenta/magenta) - A tool to generate music and art using artificial intelligence.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
 * [tryton](http://www.tryton.org/) - A general purpose business framework.
+* [python-o365](https://github.com/O365/python-o365) - Easy way to interact w/ Microsoft Graph and related APIs; Email, Calendar, Contacts, OneDrive, Sharepoint, etc
+
 
 ## Natural Language Processing
 
